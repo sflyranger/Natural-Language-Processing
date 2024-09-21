@@ -36,9 +36,7 @@ In `NN_functions_calculations.ipynb`, I manually calculate functions used in neu
 
 - **Manual Gradients**:  
   Calculate gradients for:
-  \[
-  f(x,y) = \frac{x + \exp(y)}{\log(x) + (x-y)^3}
-  \]
+  $f(x,y) = \frac{x + \exp(y)}{\log(x) + (x-y)^3}$
 
 - **Softmax & Cross-Entropy Loss**:  
   Implement the softmax function and compute cross-entropy loss manually.
@@ -47,10 +45,6 @@ This project dives into the math behind PyTorch’s neural networks.
 
 ---
 
-## <font color='blue'>**How to Use**</font>
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
 
 
