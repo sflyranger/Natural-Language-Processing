@@ -1,7 +1,3 @@
-# Natural Language Processing (NLP) Specialization
-
-Natural Language Processing (NLP) is a field focused on enabling machines to understand and manipulate human language. As a key area within machine learning, NLP is widely applied in various domains, from analyzing text to building conversational agents. This Specialization offers a comprehensive approach to mastering NLP, covering both fundamental techniques and advanced deep learning models.
-
 # <font color='blue'>**Cracking the Code: Regression and Neural Network Functions with PyTorch**</font>
 
 This repo covers two key PyTorch projects: regression models and manual function calculations for neural networks.
