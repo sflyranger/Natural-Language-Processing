@@ -18,11 +18,11 @@ In `Linear_regression_pytorch.ipynb`, I explore regression models to see how \( 
 
 - **Models**:
   1. Quadratic:  
-     \( y = b + w_1 \cdot x + w_2 \cdot x^2 \)
+     $y = b + w_1 \cdot x + w_2 \cdot x^2$
   2. Linear (with bias):  
-     \( y = b + w_1 \cdot x \)
+     $y = b + w_1 \cdot x$
   3. Linear (without bias):  
-     \( y = w_1 \cdot x \)
+     $y = w_1 \cdot x$
 
 - **Approach**: Using Batch Gradient Descent to estimate coefficients and fine-tuning with different epoch counts and learning rates.
 
